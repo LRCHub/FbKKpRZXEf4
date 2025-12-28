@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "サワーチェリーが輝いたから",
+  "base_artist": "海茶",
+  "createdAt": "2025-12-28T06:58:53.100092Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サワーチェリーが輝いたから (feat. 琴葉 茜・葵)",
+      "artist": "海茶",
+      "has_synced": false,
+      "path": "select/pl_01_サワーチェリーが輝いたから_(feat._琴葉_茜・葵)_海茶.txt"
+    }
+  ]
+}
